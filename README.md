@@ -1,6 +1,6 @@
 # Engineering Materials
 
-This repository holds the engineering materials for a self-driving vehicle model competing in the WRO Future Engineers competition for the 2024 season.   
+This repository holds the engineering materials for a self-driving vehicle model competing in the WRO Future Engineers competition for the 2025 season.   
 
 # Content
 
