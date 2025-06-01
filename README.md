@@ -23,7 +23,8 @@ This document serves as a detailed guide for anyone interested in understanding,
 We are a dynamic team consisting of Vlad, Calin and Luca , united by our passion for innovation and excellence in robotics.
 
 Meet Our Team
-Vlad (Me) – As the team's hardware specialist, I designed the high-precision circuit and the 3D-printed chassis, ensuring a robust and efficient foundation for our robot. My attention to detail and problem-solving skills were key in optimizing the mechanical and electronic integration.
+
+Vlad – As the team's hardware specialist, I designed the high-precision circuit and the 3D-printed chassis, ensuring a robust and efficient foundation for our robot. My attention to detail and problem-solving skills were key in optimizing the mechanical and electronic integration.
 
 Luca – A vital part of our team, Luca took charge of the software development, writing clean and efficient code to bring our robot to life. He also stepped in to troubleshoot circuit issues, proving himself as a versatile and reliable teammate.
 
