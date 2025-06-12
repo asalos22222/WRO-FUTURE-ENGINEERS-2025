@@ -1,22 +1,16 @@
-# Power and Sense Management
+# Mobility Management
 
-This section documents the power system and sensing capabilities of our robot.
+This section documents the mobility management of our robot.
 
-Sensors used:
+Key points:
 
-- 3x Ultrasonic sensors: obstacle detection and distance measurement.
-- HuskyLens AI Vision Sensor: real-time object and color detection.
-- TCS34725 Color Sensor: precise color sensing.
-- HMC5883L Magnetometer: absolute directional control.
+- Drivetrain: DS3230 PRO servo motor for forward propulsion (600 RPM).
+- Steering: dedicated servo motor for sharp and precise turns.
+- Motor driver: L298N for motor control.
+- Software: optimized movement control (straight line navigation, turns) implemented in Arduino code.
 
-Power system:
+Relevant code:
+- See `src/` folder (Obstacle Challenge and Open Challenge code).
 
-- Powered by battery pack (specify type if needed).
-- Efficient power distribution ensuring reliable sensor and motor performance.
-
-Relevant diagrams:
-- See `schemes/` folder (ElectricDiagram.png).
-
-Software integration:
-- I2C-based communication with HuskyLens and compass.
-- Optimized Arduino code using Wire.h and Adafruit libraries.
+Performance:
+- The drivetrain ensures a stable and agile movement, capable of navigating complex courses smoothly.
